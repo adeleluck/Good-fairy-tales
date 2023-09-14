@@ -1,0 +1,43 @@
+/*Рамки блоков*/
+.my_block_border_solid{
+	border:1px solid black;
+}
+
+.my_block_border_dashed{
+	border:1px dashed black;
+}
+
+/*Цветв кнопок*/
+.btn.btn_one{
+	background-color:yellow !important;
+}
+.btn.btn_two{
+	background-color:green !important;
+}
+
+/*Цвета блоков*/
+.block_two_color{
+	background-color:#ff61e5;
+}
+.block_three_color{
+	background-color:#2fcbfa;
+}
+.block_four_color{
+	background-color:#ffeb36;
+}
+
+.my_block_height{
+	    height: 50px;
+}
+
+/*Форма*/
+.my-form,
+.results {
+  width: 90vw;
+  max-width: 550px;
+  margin: 8vh auto;
+}
+
+.font_form{
+	font-size: 24px;
+}
